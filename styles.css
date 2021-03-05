@@ -1,0 +1,17 @@
+body {
+    background-color: #f4f4f4;
+    color: #555555;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+    line-height: normal;
+}
+
+.box-1 {font-style: italic;
+}
+
+h1, .black-border {
+    border: 3px solid black;
+}
+h1 {
+    background-color: bisque;
+}
